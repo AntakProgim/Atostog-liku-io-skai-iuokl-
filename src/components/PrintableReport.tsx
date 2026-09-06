@@ -17,7 +17,7 @@ export const PrintableReport: React.FC<PrintableReportProps> = ({ data, result }
           Vilniaus Antakalnio progimnazija
         </h1>
         <p className="text-xs text-slate-600 mt-0.5">
-          Biudžetinė įstaiga, Antakalnio g. 29/33, LT-10312 Vilnius | Tel. +370 5 234 1234 | El. p. rastine@antakalnio.lt
+          Biudžetinė įstaiga, Antakalnio g. 33, LT-10312 Vilnius | Tel. +370 5 234 1234 | El. p. rastine@antakalnio.lt
         </p>
       </div>
 

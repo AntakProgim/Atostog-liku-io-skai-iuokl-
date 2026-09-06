@@ -199,7 +199,7 @@ export default function App() {
               A
             </div>
             <span>
-              Vilniaus Antakalnio progimnazija | Antakalnio g. 29/33, LT-10312 Vilnius | El. p.{' '}
+              Vilniaus Antakalnio progimnazija | Antakalnio g. 33, LT-10312 Vilnius | El. p.{' '}
               <a href="mailto:rastine@antakalnio.lt" className="text-indigo-600 hover:underline">
                 rastine@antakalnio.lt
               </a>
