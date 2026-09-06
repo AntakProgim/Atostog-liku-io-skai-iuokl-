@@ -42,7 +42,7 @@ export const YearBreakdownTable: React.FC<YearBreakdownTableProps> = ({ breakdow
       {showFormulaDetails && (
         <div className="bg-indigo-50/50 p-4 border-b border-indigo-100 text-xs text-slate-700 space-y-1.5 animate-in fade-in duration-150">
           <div className="font-bold text-indigo-900">
-            LR Darbo kodekso ir BĮ „Skaitlis“ skaičiavimo formulė:
+            LR Darbo kodekso skaičiavimo formulė:
           </div>
           <p className="leading-relaxed">
             Sukauptos atostogų dienos už periodą ={' '}

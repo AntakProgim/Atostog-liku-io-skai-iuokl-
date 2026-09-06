@@ -134,7 +134,7 @@ export const VacationPeriodsList: React.FC<VacationPeriodsListProps> = ({
               </div>
               <p className="text-xs text-slate-500 mt-2 flex items-center gap-1.5">
                 <Info className="w-3.5 h-3.5 text-indigo-500 shrink-0" />
-                Patogu, jei turite tikslią BĮ „Skaitlis“ tabelio ar algalapio suvestinę.
+                Patogu, jei turite tikslią tabelio ar algalapio suvestinę.
               </p>
             </div>
           </div>

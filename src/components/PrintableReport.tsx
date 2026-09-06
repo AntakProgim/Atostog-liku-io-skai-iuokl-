@@ -19,9 +19,6 @@ export const PrintableReport: React.FC<PrintableReportProps> = ({ data, result }
         <p className="text-xs text-slate-600 mt-0.5">
           Biudžetinė įstaiga, Antakalnio g. 29/33, LT-10312 Vilnius | Tel. +370 5 234 1234 | El. p. rastine@antakalnio.lt
         </p>
-        <p className="text-[11px] text-slate-500 italic">
-          Buhalterinę apskaitą tvarko: Vilniaus m. savivaldybės BĮ „Skaitlis“
-        </p>
       </div>
 
       {/* Document Title */}

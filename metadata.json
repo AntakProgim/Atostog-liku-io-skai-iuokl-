@@ -1,6 +1,6 @@
 {
   "name": "Vilniaus Antakalnio progimnazijos atostogų likučio skaičiuoklė",
-  "description": "Kasmetinių atostogų kaupimo ir nepanaudotų atostogų likučio skaičiuoklė Vilniaus Antakalnio progimnazijos pedagogams ir darbuotojams pagal LR Darbo kodeksą ir BĮ „Skaitlis“ reikalavimus.",
+  "description": "Kasmetinių atostogų kaupimo ir nepanaudotų atostogų likučio skaičiuoklė Vilniaus Antakalnio progimnazijos pedagogams ir darbuotojams pagal LR Darbo kodekso reikalavimus.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

@@ -37,7 +37,7 @@ export const Header: React.FC<HeaderProps> = ({
                 </p>
                 <span className="hidden sm:inline-block text-slate-300">•</span>
                 <span className="hidden sm:inline-block text-[11px] font-semibold text-indigo-600">
-                  BĮ „Skaitlis“ metodika
+                  LR Darbo kodekso reglamentas
                 </span>
               </div>
             </div>

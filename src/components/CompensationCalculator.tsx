@@ -149,7 +149,7 @@ export const CompensationCalculator: React.FC<CompensationCalculatorProps> = ({
                     <span className="absolute right-3 top-2.5 text-sm font-bold text-slate-400">€</span>
                   </div>
                   <p className="text-[11px] text-slate-400 mt-1">
-                    Pedagogų VDU pateikiamas BĮ „Skaitlis“ atsiskaitymo lapelyje.
+                    Pedagogų VDU pateikiamas buhalteriniame atsiskaitymo lapelyje.
                   </p>
                 </div>
               ) : (
@@ -279,7 +279,7 @@ export const CompensationCalculator: React.FC<CompensationCalculatorProps> = ({
               </div>
 
               <div className="mt-4 pt-3 border-t border-slate-200 text-[11px] text-slate-400">
-                * Tikslų mokesčių dydį (įskaitant papildomą pensijų kaupimą bei taikomą NPD) nustato BĮ „Skaitlis“ pagal galiojančius teisės aktus.
+                * Tikslų mokesčių dydį (įskaitant papildomą pensijų kaupimą bei taikomą NPD) nustato buhalterija pagal galiojančius teisės aktus.
               </div>
             </div>
           </div>

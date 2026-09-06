@@ -120,7 +120,7 @@ export default function App() {
               </h2>
               <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
                 Skaičiuojama pagal LR Darbo kodekso 126–138 str., LRV nutarimą Nr. 496 (pedagogams 40 d.d.) 
-                ir Vilniaus m. savivaldybės biudžetinės įstaigos „Skaitlis“ metodinius reikalavimus.
+                ir švietimo įstaigų apskaitos reikalavimus.
               </p>
             </div>
 
@@ -207,9 +207,9 @@ export default function App() {
           </div>
 
           <div className="flex items-center gap-4 text-[11px] text-slate-400">
-            <span>Metodinis suderinamumas: BĮ „Skaitlis“</span>
+            <span>Metodinis pagrindas: LR Darbo kodeksas</span>
             <span>•</span>
-            <span>LR Darbo kodeksas</span>
+            <span>LRV nutarimas Nr. 496</span>
             <span>•</span>
             <button
               type="button"

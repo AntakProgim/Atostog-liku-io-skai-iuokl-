@@ -23,7 +23,7 @@ export const HelpFaqModal: React.FC<HelpFaqModalProps> = ({ isOpen, onClose }) =
                 Atostogų apskaitos taisyklės ir teisės aktai
               </h2>
               <p className="text-xs text-slate-500">
-                LR Darbo kodeksas ir Vilniaus m. savivaldybės BĮ „Skaitlis“ metodika
+                LR Darbo kodekso ir švietimo įstaigų apskaitos reglamentas
               </p>
             </div>
           </div>
@@ -99,14 +99,13 @@ export const HelpFaqModal: React.FC<HelpFaqModalProps> = ({ isOpen, onClose }) =
             </p>
           </div>
 
-          {/* Section 5: BĮ Skaitlis methodology */}
+          {/* Section 5: Accounting principles */}
           <div className="space-y-2">
             <div className="flex items-center gap-2 font-bold text-sm text-emerald-900">
               <Check className="w-4 h-4 text-emerald-600" />
-              <span>5. BĮ „Skaitlis“ apskaitos principai</span>
+              <span>5. Atostogų kaupimo ir apskaitos principai</span>
             </div>
             <p>
-              Vilniaus m. savivaldybės biudžetinė įstaiga „Skaitlis“ atlieka centralizuotą progimnazijos apskaitą. 
               Kaupimas vykdomas proporcingai kalendorinėms dienoms per darbo metus, atmetus DK 127 str. numatytus 
               neįskaitomus laikotarpius (VPA, nemokamas atostogas virš normos).
             </p>
